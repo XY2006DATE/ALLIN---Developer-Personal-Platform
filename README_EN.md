@@ -357,7 +357,7 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 
 - Project Homepage: https://github.com/XY2006DATE/ALLIN---Developer-Personal-Platform
 - Issue Tracker: https://github.com/XY2006DATE/ALLIN---Developer-Personal-Platform/issues
-- Email: your-email@example.com
+- Email: yuxu91010@gmail.com
 
 ---
 

@@ -357,7 +357,7 @@ docker run -p 8000:8000 -p 3000:3000 allin-app
 
 - 项目主页：https://github.com/XY2006DATE/ALLIN---Developer-Personal-Platform
 - 问题反馈：https://github.com/XY2006DATE/ALLIN---Developer-Personal-Platform/issues
-- 邮箱：your-email@example.com
+- 邮箱：yuxu91010@gmail.com
 
 ---
 
